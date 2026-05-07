@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://onairmediauk.github.io/resources-51enaa/sitemap.xml
